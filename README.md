@@ -13,7 +13,7 @@
     <a href="https://fb.com/mahir.ashhab.71" target="blank">
         <img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="mahir.ashhab.71" height="30" width="40" />
     </a>
-    <a href="https://www.hackerearth.com/https://www.hackerrank.com/mahir_ashhab77" target="blank">
+    <a href="https://www.hackerrank.com/mahir_ashhab77" target="blank">
         <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="https://www.hackerrank.com/mahir_ashhab77" height="30" width="40" />
     </a>
 </p>
